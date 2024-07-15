@@ -17,3 +17,5 @@ Instructions:
 3.Press the equals (=) button to see the result.
 
 4.Use the clear (clear) button to reset the calculator and the delete (del) button to delete the last entered number.
+
+#JavaScript #WebDevelopment #Coding #HTML #CSS #GitHub
